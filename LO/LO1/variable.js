@@ -25,6 +25,7 @@ var FirstName = 'Khaleesi'; // Pascal case
 // name = 'John Snow';
 // console.log(name)
 
+
 // const
 // const city = 'Caloocan'
 // console.log(city);
@@ -44,6 +45,9 @@ console.log(person);
 
 const numbers = [1,2,3,4,5];
 
-numbers.push(6);
+numbers.push(8);
 
+// numbers.push(6);
+
+numbers.length;
 console.log(numbers);
