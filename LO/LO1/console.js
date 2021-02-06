@@ -28,3 +28,9 @@ console.log('Wazzup Yow');
 console.log('Wazzup Yow');
 console.log('Wazzup Yow');
 console.log('Wazzup Yow');
+
+// single line comment
+
+/*
+ multi line comments
+*/
