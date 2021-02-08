@@ -43,3 +43,5 @@ todo.delete = function() {
 }
 
 todo.add();
+todo.edit();
+todo.delete;
