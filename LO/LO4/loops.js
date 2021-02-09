@@ -3,14 +3,14 @@
 // for(let i = 0; i < 10; i++) {
 //    if(i === 2) {
 //     console.log('2 is my favorite number');
-    
+//     continue;
 //    }
 //    if(i === 5) {
-//     console.log('Stop the loop');
-//     break;
-//    }
+//      console.log('Stop the loop');
+//      break;
+//     }
 
-//    console.log(Number ${i});
+//     console.log(Number ${i});
 // }
 
 // // While loop
@@ -55,11 +55,11 @@
 // FOR IN LOOP
 
 const user = {
-    firstName: 'Jan',
-    lastName: 'Gamit',
-    age: 22
- };
- 
- for(let x in user) {
-   console.log(${x}:  ${user[x]});
- }
+  firstName: 'Jan',
+  lastName: 'Gamit',
+  age: 22
+};
+
+for(let x in user) {
+ console.log(${x}:  ${user[x]});
+}
