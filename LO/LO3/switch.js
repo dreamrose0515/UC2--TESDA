@@ -38,4 +38,4 @@ switch(new Date().getDay()) {
       break;
 }  
 
-console.log('Today is $')
+console.log('Today is $day')
